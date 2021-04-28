@@ -1,0 +1,14 @@
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\bin\Debug\DotA_2_Predictor.exe.config
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\bin\Debug\DotA_2_Predictor.exe
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\bin\Debug\DotA_2_Predictor.pdb
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\bin\Debug\DotA_2_Predictor.xml
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\obj\Debug\DotA_2_Predictor.vbprojAssemblyReference.cache
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\obj\Debug\DotA_2_Predictor.Resources.resources
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\obj\Debug\DotA_2_Predictor.vbproj.GenerateResource.cache
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\obj\Debug\DotA_2_Predictor.vbproj.CoreCompileInputs.cache
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\obj\Debug\DotA_2_Predictor.vbproj.CopyComplete
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\obj\Debug\DotA_2_Predictor.exe
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\obj\Debug\DotA_2_Predictor.xml
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\obj\Debug\DotA_2_Predictor.pdb
+C:\Users\lxixsxa\source\repos\DotA_2_Predictor\DotA_2_Predictor\obj\Debug\DotA_2_Predictor.frmMain.resources

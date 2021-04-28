@@ -1,0 +1,77 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DotA_2_Predictor
+</name>
+</assembly>
+<members>
+<member name="T:DotA_2_Predictor.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DotA_2_Predictor.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DotA_2_Predictor.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DotA_2_Predictor.My.Resources.Resources.dota_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotA_2_Predictor.My.Resources.Resources.icons8_crystal_ball_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotA_2_Predictor.My.Resources.Resources.icons8_maintenance_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotA_2_Predictor.My.Resources.Resources.icons8_windows_10_32_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotA_2_Predictor.My.Resources.Resources.rsz_b3e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:DotA_2_Predictor.FrmMain.Button1_Click_1(System.Object,System.EventArgs)">
+ <summary>
+ ---------------------------------------- NORMALISASI ----------------------------------------
+ </summary>  
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:DotA_2_Predictor.FrmMain.BtnPilihDataOptm_Click(System.Object,System.EventArgs)">
+ <summary>
+ ---------------------------------------- OPTIMASI ----------------------------------------
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:DotA_2_Predictor.FrmMain.BtnPilihDataXml_Click(System.Object,System.EventArgs)">
+ <summary>
+ ---------------------------------------- PREDIKSI ----------------------------------------
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="T:DotA_2_Predictor.FrmMain.RegresiLogistikMSO">
+ <summary>
+ ---------------------------------------- CLASS MSO ----------------------------------------
+ </summary>
+</member>
+</members>
+</doc>
